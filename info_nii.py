@@ -1,0 +1,1 @@
+info = niftiinfo('brain.nii');
